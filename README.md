@@ -20,3 +20,15 @@
  13/11 - AC - Apresentação
 
  27/11 - ap2
+
+ Aula 1 - 
+ 
+ *Software que tem a função de funcionar como interface entre o usuario e o computador
+ 
+ *tem como objetivo facilitar o gerenciamento dos recursos do hardware
+
+ * a diferença entre o sistema operacional e os outros aplicativos e que ele é assincrono
+
+ * funções do sistema operacional - controlar interrupções , escalomnamento, gerenciar processos e theridos, gerenciar memória, gerenciar sistemas de arquivos, auditoria e segurança, conexão de redes
+ 
+ 
