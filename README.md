@@ -8,12 +8,13 @@
  *Bibliografia
  
  *Nao usar figura
+ 
  *Comandos apenas importantes
+ 
  *Nao usar itens
+ 
  *Como se fosse uma redacao
  
- 
-
  13/11 - AC - Apresentação
 
  27/11 - ap2
