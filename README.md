@@ -6,6 +6,7 @@
  OBS:
  
  *Bibliografia
+ 
  *Nao usar figura
  *Comandos apenas importantes
  *Nao usar itens
