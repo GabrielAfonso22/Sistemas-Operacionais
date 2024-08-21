@@ -61,7 +61,9 @@
 
  Aula 3 - comandos linux:
 
- todos os cd - pwd - whoami - date - rmdir - mkdir - ls  - touch
+ todos os cd - pwd - whoami - date - rmdir - mkdir - ls  - touch - rm - file - mv
+
+ IPC mover / renomear = mv
 
  cd ~ - vai para o diretorio de trabalho do usuário
 
@@ -73,6 +75,9 @@
 caminho relativo - nao começa na raiz 
 ../ - vai para o diretorio pai 
 ./ - acessa o mesmo diretorio
+
+criar arquivo com ponto oculta os arquivos ex .aula
+para ver ls -a
 
 Tipos de arquivos 
 -  - regular
