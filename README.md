@@ -61,7 +61,7 @@
 
  Aula 3 - comandos linux:
 
- todos os cd - pwd - whoami - date - . e ..
+ todos os cd - pwd - whoami - date - rmdir - mkdir
 
  cd ~ - vai para o diretorio de trabalho do usuário
 
