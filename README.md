@@ -61,7 +61,7 @@
 
  Aula 3 - comandos linux:
 
- todos os cd - pwd - whoami - date - rmdir - mkdir
+ todos os cd - pwd - whoami - date - rmdir - mkdir - ls  - touch
 
  cd ~ - vai para o diretorio de trabalho do usuário
 
@@ -73,3 +73,9 @@
 caminho relativo - nao começa na raiz 
 ../ - vai para o diretorio pai 
 ./ - acessa o mesmo diretorio
+
+Tipos de arquivos 
+-  - regular
+-  D diretorio
+-  L atalho
+- c/b dispositivos caracteres ou blocos
