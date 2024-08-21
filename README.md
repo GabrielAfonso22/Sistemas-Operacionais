@@ -59,8 +59,17 @@
 
  *Multiusuario - 
 
- 
+ Aula 3 - comandos linux:
 
- 
+ todos os cd - pwd - whoami - date - . e ..
 
- 
+ cd ~ - vai para o diretorio de trabalho do usuário
+
+ diferença de exit e logout
+
+ caminho absoluto - inicia na raiz
+ /root - /home/virtual
+
+caminho relativo - nao começa na raiz 
+../ - vai para o diretorio pai 
+./ - acessa o mesmo diretorio
