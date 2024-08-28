@@ -100,7 +100,9 @@ Tipos de arquivos
   ln - cria atalho
 
   ls *arq - apenas aqueles q tem conteúdo antes do arq
-  ls *arq* - arquivos com conteúdo antes e depois 
+  ls *arq* - arquivos com conteúdo antes e depois
+
+   rm* - remove todos arquivos no diretorio
 
   IPC ls * - é usado para representar qualquer caracter inclusive nenhum
 
@@ -112,4 +114,6 @@ Tipos de arquivos
 
   ls *[1-3]
 
-[ - ] esse traço é até, no caso de cima 1 até 3
+  [ - ] esse traço é até, no caso de cima 1 até 3
+
+
