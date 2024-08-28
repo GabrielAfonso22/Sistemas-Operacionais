@@ -116,4 +116,32 @@ Tipos de arquivos
 
   [ - ] esse traço é até, no caso de cima 1 até 3
 
+  {} - representar numéricos
+
+  Comandos Avançados:
+
+  > - redirecionar saida padrao - insere substituindo o conteudo
+  >> - acrescenta o conteudo
+  
+  cat - concatenar(juntar) arquivos
+
+  more - faz a paginação dos arquivos
+
+  pipe - interliga comandos
+
+  sort - ordena
+  
+  sort -r ordena ao contrario  - sort -u ordena unico
+
+  head - ver os cabeçalhos  - head -3 teste exibe 3 primeiras linhas
+
+  tail - ver os cabeclhos de baixo p cima - tail -3 teste exibe 3 ultimas linhas
+
+  wc -w teste
+
+  cut
+
+
+  
+
 
