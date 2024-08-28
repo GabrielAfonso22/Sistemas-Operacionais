@@ -74,9 +74,11 @@
  diferença de exit e logout
 
  caminho absoluto - inicia na raiz
+ 
  /root - /home/virtual
 
-caminho relativo - nao começa na raiz 
+caminho relativo - nao começa na raiz:
+
 ../ - vai para o diretorio pai 
 ./ - acessa o mesmo diretorio
 
