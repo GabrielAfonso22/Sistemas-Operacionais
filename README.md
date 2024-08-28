@@ -105,3 +105,11 @@ Tipos de arquivos
   IPC ls * - é usado para representar qualquer caracter inclusive nenhum
 
   ls arquivo? - apenas 1 caracter após a palavra arquivo
+
+  ls arquivo [34] ou [3,4]
+
+  [] - representa q elemento único no grupo
+
+  ls *[1-3]
+
+[ - ] esse traço é até, no caso de cima 1 até 3
