@@ -61,7 +61,11 @@
 
  Aula 3 - comandos linux:
 
- todos os cd - pwd - whoami - date - rmdir - mkdir - ls  - touch - rm - file - mv
+ todos os cd - pwd - whoami - date - rmdir - mkdir - ls  - touch - rm - file - mv - stat 
+
+ rm - apaga arquivo
+
+ rmdir - apaga diretorio
 
  IPC mover / renomear = mv
 
@@ -84,3 +88,11 @@ Tipos de arquivos
 -  D diretorio
 -  L atalho
 - c/b dispositivos caracteres ou blocos
+
+  Aula 4 -
+
+  inode- numéro que identifica o arquivo
+
+  stat - verifica o conteúdo do inode
+
+  ln - cria atalho
