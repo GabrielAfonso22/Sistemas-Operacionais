@@ -96,3 +96,10 @@ Tipos de arquivos
   stat - verifica o conteúdo do inode
 
   ln - cria atalho
+
+  ls *arq - apenas aqueles q tem conteúdo antes do arq
+  ls *arq* - arquivos com conteúdo antes e depois 
+
+  IPC ls * - é usado para representar qualquer caracter inclusive nenhum
+
+  ls arquivo? - apenas 1 caracter após a palavra arquivo
