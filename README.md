@@ -141,6 +141,19 @@ Tipos de arquivos
 
   cut
 
+  grep - consulta
+
+  find - busca arquivos no sistema de arquivos
+
+  file - identificar o tipo de arquivo
+
+  name - especificar nome
+  -iname - ignorar case
+
+  type - indica o tipo do arquivo
+ 
+
+
 
   
 
