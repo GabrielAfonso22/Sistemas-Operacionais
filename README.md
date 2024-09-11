@@ -151,8 +151,10 @@ Tipos de arquivos
   -iname - ignorar case
 
   type - indica o tipo do arquivo
- 
 
+  echo - para escrever na tela
+ 
+  oque tem no diretório /bin - guarda os arquivos executáveis que pertencem ao usuário comum 
 
 
   
