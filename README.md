@@ -158,7 +158,7 @@ Tipos de arquivos
  
   oque tem no diretório /bin - guarda os arquivos executáveis que pertencem ao usuário comum
 
-  Prova parte de teoria -Estrutura do sitema - diferença entre shell - kernell / gli - cli
+  Prova parte de teoria -Estrutura do sitema - diferença entre shell - kernell / gui - cli
 
   taxonomia: diferença: multitarefa - monotarefa
 
