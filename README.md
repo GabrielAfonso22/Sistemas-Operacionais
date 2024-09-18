@@ -153,6 +153,8 @@ Tipos de arquivos
   type - indica o tipo do arquivo
 
   echo - para escrever na tela
+
+  estudar patch
  
   oque tem no diretório /bin - guarda os arquivos executáveis que pertencem ao usuário comum
 
