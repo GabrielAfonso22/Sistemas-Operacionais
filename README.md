@@ -154,7 +154,16 @@ Tipos de arquivos
 
   echo - para escrever na tela
  
-  oque tem no diretório /bin - guarda os arquivos executáveis que pertencem ao usuário comum 
+  oque tem no diretório /bin - guarda os arquivos executáveis que pertencem ao usuário comum
+
+  Prova parte de teoria -Estrutura do sitema - diferença entre shell - kernell / gli - cli
+
+  taxonomia: diferença: multitarefa - monotarefa
+
+  sistema de arquivo(básico):
+
+  processos:
+  
 
 
   
